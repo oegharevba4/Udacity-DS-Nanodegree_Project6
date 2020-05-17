@@ -98,11 +98,13 @@ I decided to further tweak my learner and use an XGBRegressor instead of XGBClas
 ## Metrics
 
 For my unsupervised learning part of this project, I used the elbow method to determine my optimal number of “k” to use for my clusters.
+
 ![Picture 1](./plots/SSE_vs_cluster.png)  
 
 For the supervised learning part of this project, I decided to use “ROC_AUC” and this was because of the highly unbalanced nature of my dataset. I cared about predicting accurately for both the majority and minority class and “ROC_AUC” fulfilled that bit.
 The highly unbalanced nature of my labels is represented below by the plot:
-![Picture 1](./plots/label_imbalance.png)  
+
+![Picture 2](./plots/label_imbalance.png)  
 
 
 ## Results
