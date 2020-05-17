@@ -34,13 +34,11 @@ The following libraries were used:
 
 ## Files in the repository
 
-- data (saved csv files)
+- data (saved csv files, the input dataset is not publicly available, hence not saved here)
     - kaggle_predictions.csv : kaggle prediction with XGBClassifier
     - kaggle_predictions2.csv : kaggle prediction with XGBRegressor
     - overrepresented1.csv : Cluster 1 which is an overrepresented cluster in the Customer dataset
     - underrepresented2.csv : Cluster 2 which is an underrepresented cluster in the Customer dataset
-
-- model (left empty because the dataset is not publicly available)
 
 - Plots (plots saved from Jupyter notebook)
     - ADB.png
