@@ -106,6 +106,7 @@ The highly unbalanced nature of my labels is represented below by the plot:
 
 
 ## Results
+My blog post can be found at https://medium.com/@osarugue.egharevba/bertelsmann-arvato-capstone-project-e8fe656ae1d5
 
 ### Unsupervised Learning
 Below is my result from clustering both my General population and Customer dataset:
