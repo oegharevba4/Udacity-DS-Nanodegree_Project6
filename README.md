@@ -60,6 +60,8 @@ The following libraries were used:
     - scree_pca.png
     - SSE_vs_cluster.png
     - XGB.png
+    - table_1.png
+    - table_2.png
 
 - Arvato_project_report.pdf (detailed project write-up)
 

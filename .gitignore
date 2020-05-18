@@ -1,0 +1,15 @@
+
+data/azdias_cleaned.csv
+data/customer_cleaned.csv
+data/DIAS Attributes - Values 2017.xlsx
+data/DIAS Information Levels - Attributes 2017.xlsx
+data/mailout_test_cleaned.csv
+data/mailout_train_cleaned.csv
+data/Udacity_AZDIAS_052018.csv
+data/Udacity_CUSTOMERS_052018.csv
+data/Udacity_MAILOUT_052018_TEST.csv
+data/Udacity_MAILOUT_052018_TRAIN.csv
+model/azdias_pca.pkl
+model/azdias_transform.pkl
+model/mailout_test_trans.pkl
+model/mailout_train_trans.pkl
